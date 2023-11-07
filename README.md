@@ -1,4 +1,4 @@
-# AI Code Translator
+# Code.JesseJesse.com
 
 Use AI to translate code from one language to another.
 
