@@ -1,6 +1,6 @@
 # <a href="https://sudo-self.github.io/ai-code-translator/">Convert any Code with Ai</a>
 
-Uses AI to translate code from one language to another&nbsp;<a href="https://openai.com">&nbsp;grab an API key from here</a>&nbsp;for free</a>
+Uses AI to translate code from one language to another&nbsp;<a href="https://openai.com">&nbsp;grab an API key from here</a>&nbsp;Open A.i.</a>
 ![Screenshot 2023-11-06 at 8 58 19 PM](https://github.com/sudo-self/ai-code-translator/assets/119916323/3cccbff2-7f1d-4b09-b47e-4aa21f1eec9b)
 
 
@@ -8,6 +8,4 @@ Uses AI to translate code from one language to another&nbsp;<a href="https://ope
 npm run dev
 ```
 
-## Contact
-
-reach me on  [X](https://twitter.com/ilostmyipod).
+### reach me on  [X](https://twitter.com/ilostmyipod).
